@@ -18,12 +18,3 @@ nltk.download('punkt')
 nltk.download('omw-1.4')
 
 nltk.download('averaged_perceptron_tagger')
-
-# Contributors
-Viraj Mehta
-
-Nirmit Sachde
-
-Devanshi Mehta
-
-Paras Mehta
